@@ -1,6 +1,6 @@
-# Menu com animações 🪄🪄
+# Menu com animações 🚀
 
-![preview](./github/preview.mp4)
+[![preview](./github/preview.mp4)]
 
 > Custom menu designed to gain more experience with HTML/CSS
 
