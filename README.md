@@ -1,6 +1,8 @@
-# Menu com animações 🚀
+# Menu with advanced animations 🚀
 
-[![preview](./github/preview.mp4)]
+
+https://user-images.githubusercontent.com/97770762/197872442-80f2c874-b18d-41fa-ad6e-dd031fc4e3f4.mp4
+
 
 > Custom menu designed to gain more experience with HTML/CSS
 
